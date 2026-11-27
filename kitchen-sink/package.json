@@ -10,7 +10,7 @@
     "lodash.chunk": "^4.2.0",
     "openai": "^6.9.0",
     "workflow": "4.0.1-beta.19",
-    "zod": "^4.1.12"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.10.1"

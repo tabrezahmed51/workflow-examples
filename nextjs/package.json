@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "next": "16.4.5",
+    "next": "16.4.6",
     "workflow": "5.8.0"
   },
   "devDependencies": {
